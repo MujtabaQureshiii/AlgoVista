@@ -1,0 +1,402 @@
+[
+  {
+    "dataset": "closest_pair_01_n120.json",
+    "algorithm": "closest_pair",
+    "size": 120,
+    "time_ms": 0.6361,
+    "verified": true,
+    "result_summary": "5.875392426042714",
+    "comparisons": 132,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "closest_pair_02_n144.json",
+    "algorithm": "closest_pair",
+    "size": 144,
+    "time_ms": 0.4011,
+    "verified": true,
+    "result_summary": "6.647599657019011",
+    "comparisons": 178,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "closest_pair_03_n168.json",
+    "algorithm": "closest_pair",
+    "size": 168,
+    "time_ms": 0.455,
+    "verified": true,
+    "result_summary": "7.012409756995079",
+    "comparisons": 210,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "closest_pair_04_n192.json",
+    "algorithm": "closest_pair",
+    "size": 192,
+    "time_ms": 0.477,
+    "verified": true,
+    "result_summary": "8.625405048460031",
+    "comparisons": 256,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "closest_pair_05_n216.json",
+    "algorithm": "closest_pair",
+    "size": 216,
+    "time_ms": 0.6027,
+    "verified": true,
+    "result_summary": "1.6493518878638518",
+    "comparisons": 255,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "closest_pair_06_n240.json",
+    "algorithm": "closest_pair",
+    "size": 240,
+    "time_ms": 0.711,
+    "verified": true,
+    "result_summary": "9.432918473622065",
+    "comparisons": 271,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "closest_pair_07_n280.json",
+    "algorithm": "closest_pair",
+    "size": 280,
+    "time_ms": 0.8052,
+    "verified": true,
+    "result_summary": "6.04659069724429",
+    "comparisons": 331,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "closest_pair_08_n320.json",
+    "algorithm": "closest_pair",
+    "size": 320,
+    "time_ms": 0.9886,
+    "verified": true,
+    "result_summary": "7.679242385808683",
+    "comparisons": 401,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "closest_pair_09_n384.json",
+    "algorithm": "closest_pair",
+    "size": 384,
+    "time_ms": 1.0932,
+    "verified": true,
+    "result_summary": "0.9480206115902714",
+    "comparisons": 531,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "closest_pair_10_n448.json",
+    "algorithm": "closest_pair",
+    "size": 448,
+    "time_ms": 1.4528,
+    "verified": true,
+    "result_summary": "4.843181546256587",
+    "comparisons": 541,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "integer_multiplication_01_n120.json",
+    "algorithm": "integer_multiplication",
+    "size": 120,
+    "time_ms": 0.0588,
+    "verified": true,
+    "result_summary": "239",
+    "comparisons": "",
+    "recursive_calls": 40
+  },
+  {
+    "dataset": "integer_multiplication_02_n144.json",
+    "algorithm": "integer_multiplication",
+    "size": 144,
+    "time_ms": 0.05,
+    "verified": true,
+    "result_summary": "288",
+    "comparisons": "",
+    "recursive_calls": 70
+  },
+  {
+    "dataset": "integer_multiplication_03_n168.json",
+    "algorithm": "integer_multiplication",
+    "size": 168,
+    "time_ms": 0.0682,
+    "verified": true,
+    "result_summary": "335",
+    "comparisons": "",
+    "recursive_calls": 121
+  },
+  {
+    "dataset": "integer_multiplication_04_n192.json",
+    "algorithm": "integer_multiplication",
+    "size": 192,
+    "time_ms": 0.0981,
+    "verified": true,
+    "result_summary": "384",
+    "comparisons": "",
+    "recursive_calls": 121
+  },
+  {
+    "dataset": "integer_multiplication_05_n216.json",
+    "algorithm": "integer_multiplication",
+    "size": 216,
+    "time_ms": 0.0739,
+    "verified": true,
+    "result_summary": "431",
+    "comparisons": "",
+    "recursive_calls": 121
+  },
+  {
+    "dataset": "integer_multiplication_06_n240.json",
+    "algorithm": "integer_multiplication",
+    "size": 240,
+    "time_ms": 0.0788,
+    "verified": true,
+    "result_summary": "480",
+    "comparisons": "",
+    "recursive_calls": 121
+  },
+  {
+    "dataset": "integer_multiplication_07_n280.json",
+    "algorithm": "integer_multiplication",
+    "size": 280,
+    "time_ms": 0.1157,
+    "verified": true,
+    "result_summary": "560",
+    "comparisons": "",
+    "recursive_calls": 136
+  },
+  {
+    "dataset": "integer_multiplication_08_n320.json",
+    "algorithm": "integer_multiplication",
+    "size": 320,
+    "time_ms": 0.1943,
+    "verified": true,
+    "result_summary": "640",
+    "comparisons": "",
+    "recursive_calls": 364
+  },
+  {
+    "dataset": "integer_multiplication_09_n384.json",
+    "algorithm": "integer_multiplication",
+    "size": 384,
+    "time_ms": 0.219,
+    "verified": true,
+    "result_summary": "767",
+    "comparisons": "",
+    "recursive_calls": 364
+  },
+  {
+    "dataset": "integer_multiplication_10_n448.json",
+    "algorithm": "integer_multiplication",
+    "size": 448,
+    "time_ms": 0.2526,
+    "verified": true,
+    "result_summary": "896",
+    "comparisons": "",
+    "recursive_calls": 364
+  },
+  {
+    "dataset": "inversions_01_n120.json",
+    "algorithm": "inversions",
+    "size": 120,
+    "time_ms": 0.138,
+    "verified": true,
+    "result_summary": "3407",
+    "comparisons": 683,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "inversions_02_n144.json",
+    "algorithm": "inversions",
+    "size": 144,
+    "time_ms": 0.1631,
+    "verified": true,
+    "result_summary": "5067",
+    "comparisons": 857,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "inversions_03_n168.json",
+    "algorithm": "inversions",
+    "size": 168,
+    "time_ms": 0.1885,
+    "verified": true,
+    "result_summary": "6420",
+    "comparisons": 1032,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "inversions_04_n192.json",
+    "algorithm": "inversions",
+    "size": 192,
+    "time_ms": 0.2555,
+    "verified": true,
+    "result_summary": "8523",
+    "comparisons": 1231,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "inversions_05_n216.json",
+    "algorithm": "inversions",
+    "size": 216,
+    "time_ms": 0.2852,
+    "verified": true,
+    "result_summary": "12005",
+    "comparisons": 1417,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "inversions_06_n240.json",
+    "algorithm": "inversions",
+    "size": 240,
+    "time_ms": 0.2947,
+    "verified": true,
+    "result_summary": "13619",
+    "comparisons": 1586,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "inversions_07_n280.json",
+    "algorithm": "inversions",
+    "size": 280,
+    "time_ms": 0.3347,
+    "verified": true,
+    "result_summary": "19870",
+    "comparisons": 1917,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "inversions_08_n320.json",
+    "algorithm": "inversions",
+    "size": 320,
+    "time_ms": 0.4355,
+    "verified": true,
+    "result_summary": "25643",
+    "comparisons": 2284,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "inversions_09_n384.json",
+    "algorithm": "inversions",
+    "size": 384,
+    "time_ms": 0.4817,
+    "verified": true,
+    "result_summary": "38900",
+    "comparisons": 2825,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "inversions_10_n448.json",
+    "algorithm": "inversions",
+    "size": 448,
+    "time_ms": 0.6131,
+    "verified": true,
+    "result_summary": "49711",
+    "comparisons": 3381,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "minmax_01_n120.json",
+    "algorithm": "minmax",
+    "size": 120,
+    "time_ms": 0.0283,
+    "verified": true,
+    "result_summary": "-98919",
+    "comparisons": 182,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "minmax_02_n144.json",
+    "algorithm": "minmax",
+    "size": 144,
+    "time_ms": 0.0268,
+    "verified": true,
+    "result_summary": "-99149",
+    "comparisons": 222,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "minmax_03_n168.json",
+    "algorithm": "minmax",
+    "size": 168,
+    "time_ms": 0.0324,
+    "verified": true,
+    "result_summary": "-98283",
+    "comparisons": 270,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "minmax_04_n192.json",
+    "algorithm": "minmax",
+    "size": 192,
+    "time_ms": 0.0384,
+    "verified": true,
+    "result_summary": "-99633",
+    "comparisons": 318,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "minmax_05_n216.json",
+    "algorithm": "minmax",
+    "size": 216,
+    "time_ms": 0.0402,
+    "verified": true,
+    "result_summary": "-99876",
+    "comparisons": 342,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "minmax_06_n240.json",
+    "algorithm": "minmax",
+    "size": 240,
+    "time_ms": 0.0626,
+    "verified": true,
+    "result_summary": "-99805",
+    "comparisons": 366,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "minmax_07_n280.json",
+    "algorithm": "minmax",
+    "size": 280,
+    "time_ms": 0.0515,
+    "verified": true,
+    "result_summary": "-98562",
+    "comparisons": 430,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "minmax_08_n320.json",
+    "algorithm": "minmax",
+    "size": 320,
+    "time_ms": 0.062,
+    "verified": true,
+    "result_summary": "-99926",
+    "comparisons": 510,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "minmax_09_n384.json",
+    "algorithm": "minmax",
+    "size": 384,
+    "time_ms": 0.094,
+    "verified": true,
+    "result_summary": "-99277",
+    "comparisons": 638,
+    "recursive_calls": ""
+  },
+  {
+    "dataset": "minmax_10_n448.json",
+    "algorithm": "minmax",
+    "size": 448,
+    "time_ms": 0.0842,
+    "verified": true,
+    "result_summary": "-99346",
+    "comparisons": 702,
+    "recursive_calls": ""
+  }
+]
